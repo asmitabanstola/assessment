@@ -1,0 +1,57 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Test reports and recordings
+recordings/
+*.mp4
+*.avi
+*.mkv
+
+# Selenium/WebDriver files
+chromedriver.log
+geckodriver.log
+selenium.log
+
+# pytest and coverage
+.cache/
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+*.coverage.*
+
+# Dependencies
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+*.bak
+*.old
+*.orig
+
